@@ -134,8 +134,8 @@ with st.sidebar:
     st.markdown(
         """
         **바라바라바라밤**
-        - Streamlit Cloud: **Secrets**에 `OPENAI_API_KEY`를 추가하세요.
-        - 로컬: `.env` 또는 환경변수 `OPENAI_API_KEY`를 설정하세요.
+        - 어서와 친구들 !!.
+        - 내가 웹페이지를 만들었어!.
         """
     )
 
