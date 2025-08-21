@@ -213,4 +213,4 @@ if cta:
     st.markdown(story)
 
 # Footer
-st.markdown("\n\n— Made with ❤️ using Streamlit + OpenAI")
+st.markdown("\n\n— 흐흐흐흐흐흐흐흐흐흐아각각!!!")
