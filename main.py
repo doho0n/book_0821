@@ -133,7 +133,7 @@ with st.sidebar:
     temperature = st.slider("창의성(temperature)", min_value=0.0, max_value=1.5, value=0.9, step=0.1)
     st.markdown(
         """
-        **API 키 설정 방법**
+        **바라바라바라밤**
         - Streamlit Cloud: **Secrets**에 `OPENAI_API_KEY`를 추가하세요.
         - 로컬: `.env` 또는 환경변수 `OPENAI_API_KEY`를 설정하세요.
         """
